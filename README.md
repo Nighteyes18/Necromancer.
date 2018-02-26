@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Scourge guide
 
 You can use the [editor on GitHub](https://github.com/Nighteyes18/Necromancer./edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
